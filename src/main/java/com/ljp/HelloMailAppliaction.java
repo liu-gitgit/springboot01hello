@@ -6,5 +6,6 @@ package com.ljp;
 public class HelloMailAppliaction<spring> {
     public static void main(String[] args) {
         SpringApplication.run(HelloMailAppliaction.class,args);
+        //测试
     }
 }
